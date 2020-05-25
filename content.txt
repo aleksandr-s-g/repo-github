@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 clear-branch
+=======
+cherry-branch
+ololo
+>>>>>>> cherry-branch
